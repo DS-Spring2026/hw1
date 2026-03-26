@@ -130,11 +130,12 @@ Finally, go through your Google cloud billing window and look at what the costs 
 
 ## Writeup
 In your README, please include the following sections: 
-- details on what variables you chose for the model,
+- details on what variables you chose for the model
 - what SQL queries you wrote to extract information, including the output of the EXPLAIN SQL command on those queries
 - Explanation and Output of the two SQL queries using DuckDB
 - what model you trained and what your reasoning was. 
 - Include some reasoning on what you think the difference between external tables vs. internal tables in BigQuery would be in terms of some performance metrics.
+- Please describe if you have used any AI Coding tools and for what tasks of the assignment
 - Finally, include any feedback you have on how difficult the assignment was, any unexpected difficulties you hit, and any other general feedback you may have. 
 
-Also, submit the executed colab notebook along with the write up.
+Also, submit the executed colab notebook along with the write up. 
